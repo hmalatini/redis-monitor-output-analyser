@@ -1,4 +1,4 @@
-# Redis Monitor Output analyser
+# Redis Monitor Output analyzer
 Quick program to analyse results of the MONITOR command from the redis-cli
 
 ## How to use it
